@@ -1,7 +1,5 @@
 # Ravi Meena ✨
 
----
-
 **`Computer Nerd (Developer/Designer/Coder)`**
 
 If you're searching for a dedicated professional who can transform your vision into reality, look no further. As a full-stack web developer, Ravi excel at creating user-friendly and visually captivating digital experiences. Let him bring your digital ideas to life, seamlessly blending elegance and functionality in both front-end and back-end development. Together with him, you will create a digital masterpiece that exceeds your expectations.
